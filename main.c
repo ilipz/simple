@@ -2,6 +2,6 @@
 
 int main ()
 {
-	printf("qq all here");
+	printf("qq all here\n");
 	return 0;
 }
